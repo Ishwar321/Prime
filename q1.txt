@@ -1,0 +1,10 @@
+a) date > now.txt
+
+b) mkdir dates
+cp now.txt dates/
+
+c) chmod 700 dates
+
+d) ps aux | wc -l
+
+e) tar -cvf dates.tar dates
